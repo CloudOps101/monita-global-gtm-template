@@ -1,0 +1,1 @@
+# monita-global-gtm-template
